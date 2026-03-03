@@ -1,0 +1,20 @@
+﻿EXE=HWiNFO64.EXE
+TITLE=HWiNFO OSD
+CLASS=PMON2-CAP-CLS
+-----------------------------
+EXE=explorer.exe
+TITLE=settings - 파일 탐색기
+CLASS=CabinetWClass
+-----------------------------
+EXE=explorer.exe
+TITLE=Windows - 파일 탐색기
+CLASS=CabinetWClass
+-----------------------------
+EXE=NVIDIA Overlay.exe
+TITLE=NVIDIA GeForce Overlay
+CLASS=CEF-OSC-WIDGET
+-----------------------------
+EXE=explorer.exe
+TITLE=Program Manager
+CLASS=Progman
+-----------------------------
